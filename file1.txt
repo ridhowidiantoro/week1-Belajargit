@@ -1,3 +1,7 @@
 ariel wibu
 parah
+<<<<<<< HEAD
 fiturA
+=======
+fitur A
+>>>>>>> fiturA
